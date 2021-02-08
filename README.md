@@ -1,2 +1,2 @@
-# tecnicasComputacionais
-Repositório da disciplina "Técnicas Computacionais" da UFPE
+# Técnicas Computacionais 
+Repositório da disciplina "INT0046 - Técnicas Computacionais" da UFPE.
